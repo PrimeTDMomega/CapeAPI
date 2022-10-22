@@ -30,4 +30,7 @@ MACOS/LINUX:
 ./gradlew build
 ```
 
+## Note
+I'll probably upload a `.jar` file and put it in the releases tab, correction I'll ask [KaaskopThomas](https://github.com/CheeseHeadThomas) to do it because I can =)
+
 
