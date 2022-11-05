@@ -15,6 +15,9 @@ WINDOWS:
 ./gradlew setupDecompWorkspace
 ```
 ```
+./gradlew clean
+```
+```
 ./gradlew build
 ```
 <br>
@@ -24,6 +27,9 @@ MACOS/LINUX:
 
 ```
 ./gradlew setupDecompWorkspace
+```
+```
+./gradlew clean
 ```
 
 ```
